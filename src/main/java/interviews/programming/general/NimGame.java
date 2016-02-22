@@ -1,4 +1,4 @@
-package interviews.programming;
+package interviews.programming.general;
 
 public class NimGame {
     public boolean canWinNim(int n) {

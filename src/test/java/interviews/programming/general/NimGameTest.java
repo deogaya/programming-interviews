@@ -1,7 +1,9 @@
-package interviews.programming;
+package interviews.programming.general;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import interviews.programming.general.NimGame;
 
 public class NimGameTest {
 
